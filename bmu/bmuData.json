@@ -1,0 +1,33 @@
+{
+    "image": "https://static.toiimg.com/thumb/msid-74387644,width-1280,height-720,imgsize-432111,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+    "school": "School of Engineering & Technology",
+    "univ": "BML Munjal University",
+    "place": "Gurgaon",
+    
+    "depts": [
+        {
+            "dept_name": "Computer Science",
+            "theme": "Hardware & Software",
+            "eligib": "Open to all",
+            "electives": ["IOT", "ADS", "Blockchain"]
+        },
+        {
+            "dept_name": "Mechanical Engineering",
+            "theme": "Hardware & Software",
+            "eligib": "Open to all",
+            "electives": ["IOT", "Fluid Mechanics", "Robotics"]
+        },
+        {
+            "dept_name": "Electronics & Computer Science",
+            "theme": "Hardware & Software",
+            "eligib": "Open to all",
+            "electives": ["IOT", "Control Systems", "VLSI"]
+        },
+        {
+            "dept_name": "Information Technology",
+            "theme": "Hardware & Software",
+            "eligib": "Open to all",
+            "electives": ["IOT", "Control Systems", "VLSI"]
+        }
+    ]
+}
